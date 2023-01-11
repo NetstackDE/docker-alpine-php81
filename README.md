@@ -1,5 +1,5 @@
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/netstack/docker-alpine-java8-build)
-![GitHub](https://img.shields.io/github/license/NetstackDE/docker-alpine-java8-build)
+![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/netstack/docker-alpine-php81)
+![GitHub](https://img.shields.io/github/license/NetstackDE/docker-alpine-php81)
 
 # docker-alpine-php81
 docker image for php 8.1 builds
